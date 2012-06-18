@@ -1,6 +1,6 @@
 # Ryan Bates Dot Files
 
-These are config files to set up a system. Forked from [Oh My ZSH](https://github.com/ryanb/dotfiles) which gives a good base to start my own dotfiles.
+These are config files to set up a system. Forked from [ryanb dotfiles](https://github.com/ryanb/dotfiles) which gives a good base to start my own dotfiles.
 
 Works both on Mac OS X and Linux.
 
