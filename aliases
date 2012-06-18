@@ -1,0 +1,9 @@
+alias ..='cd ..'
+alias ll='ls -Glh'
+alias h='history'
+
+alias tu='top -o cpu' #cpu
+alias tm='top -o vsize' # memory
+
+# git
+alias gs='git status'
